@@ -367,11 +367,6 @@
 /****************************/
 
 @media (max-width:34em) {
-
-  html {
-    font-size: 43.75%;
-  }
-
   .pricing-plan {
     width: 75%;
   }

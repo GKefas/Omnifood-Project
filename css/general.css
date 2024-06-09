@@ -138,9 +138,9 @@ body {
   line-height: 1;
 }
 
-.text-and-icon-center ion-icon {
-  margin-bottom: 0.4rem;
-}
+/* .text-and-icon-center ion-icon {
+  margin-bottom: 0.2rem;
+} */
 
 .heading-primary,
 .heading-secondary,

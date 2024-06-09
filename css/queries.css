@@ -367,6 +367,11 @@
 /****************************/
 
 @media (max-width:34em) {
+
+  .heading-tertiary {
+    letter-spacing: -0.5px;
+  }
+
   .pricing-plan {
     width: 75%;
   }

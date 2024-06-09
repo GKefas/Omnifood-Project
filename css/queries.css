@@ -154,7 +154,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.5s ease-in;
+    transition: all 0.3s ease-in;
     /* Hide navigation */
     /* Doesnt allows no transitions at all */
     /* display: none; */
@@ -279,7 +279,7 @@
   .btn,
   .btn:link,
   .btn:visited {
-    padding: 2.4rem 1.6rem;
+    padding: 1.6rem 1.6rem;
   }
 
   .section-how,
@@ -397,7 +397,7 @@
   */
 
 
-  /****************************/
+/****************************/
 /** Fixing Safari flexbox gap ***/
 /****************************/
 
